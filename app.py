@@ -8,6 +8,6 @@ if __name__ == "__main__":
 
     print(" hello")
 
-    teehee = "ye"
+    teehee = "ye..."
     x = 5
     name = "Johnny Jonhson"
