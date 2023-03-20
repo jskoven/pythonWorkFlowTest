@@ -4,7 +4,6 @@ def test(x, b, s):
 
 if __name__ == "__main__":
     print("Hello world")
-
     print("pls format    ")
 
     print(" hello")
